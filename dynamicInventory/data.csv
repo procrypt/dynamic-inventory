@@ -1,0 +1,9 @@
+group,IP
+WebServer,35.185.34.238 
+WebServer,35.229.88.17 
+MailServer,35.196.128.251 
+Database,35.231.179.221
+Database,35.190.151.202 
+etcd,35.231.142.53 
+MailServer,35.185.126.190 
+etcd,35.237.252.224 

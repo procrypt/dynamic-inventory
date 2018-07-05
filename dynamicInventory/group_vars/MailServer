@@ -1,0 +1,3 @@
+---
+ansible_user: mailserver
+ansible_become: True
