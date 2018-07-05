@@ -1,0 +1,3 @@
+env_id="123"
+dns_domain="xyz"
+openstack_metadata_node_labels="openstack"
